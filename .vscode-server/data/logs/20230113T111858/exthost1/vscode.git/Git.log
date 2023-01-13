@@ -883,3 +883,53 @@ and then push using the remote name
 2023-01-13 11:59:03.901 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
 2023-01-13 11:59:03.924 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
 2023-01-13 11:59:03.944 [info] > git status -z -uall [33ms]
+2023-01-13 11:59:05.008 [info] > git add -A -- . [42ms]
+2023-01-13 11:59:05.454 [info] > git show --textconv :.git/COMMIT_EDITMSG [11ms]
+2023-01-13 11:59:05.456 [info] > git ls-files --stage -- /home/kevinromeroe/.git/COMMIT_EDITMSG [5ms]
+2023-01-13 11:59:06.347 [info] > git ls-files --stage -- /home/kevinromeroe/ProjectPython/Hola.py [9ms]
+2023-01-13 11:59:06.356 [info] > git ls-files --stage -- /home/kevinromeroe/.git/COMMIT_EDITMSG [9ms]
+2023-01-13 11:59:06.357 [info] > git cat-file -s 5c906a6bc051c00b0ea212127d3f427a226754f1 [2ms]
+2023-01-13 11:59:06.429 [info] > git show --textconv :.git/COMMIT_EDITMSG [11ms]
+2023-01-13 11:59:06.430 [info] > git show --textconv :ProjectPython/Hola.py [4ms]
+2023-01-13 11:59:10.032 [info] > git -c user.useConfigOnly=true commit --quiet [5013ms]
+2023-01-13 11:59:10.051 [info] > git config --get commit.template [3ms]
+2023-01-13 11:59:10.062 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-01-13 11:59:10.089 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-01-13 11:59:10.111 [info] > git status -z -uall [38ms]
+2023-01-13 11:59:10.154 [info] > git push [13ms]
+2023-01-13 11:59:10.154 [info] fatal: No configured push destination.
+Either specify the URL from the command-line or configure a remote repository using
+
+    git remote add <name> <url>
+
+and then push using the remote name
+
+    git push <name>
+2023-01-13 11:59:10.160 [info] > git config --get commit.template [7ms]
+2023-01-13 11:59:10.174 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2023-01-13 11:59:10.211 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-01-13 11:59:10.233 [info] > git status -z -uall [44ms]
+2023-01-13 11:59:10.845 [info] > git check-ignore -v -z --stdin [3ms]
+2023-01-13 12:00:00.507 [info] > git ls-files --stage -- /home/kevinromeroe/ProjectPython/Hola.py [3ms]
+2023-01-13 12:00:00.533 [info] > git cat-file -s 5c906a6bc051c00b0ea212127d3f427a226754f1 [17ms]
+2023-01-13 12:00:00.535 [info] > git config --get commit.template [3ms]
+2023-01-13 12:00:00.542 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-01-13 12:00:00.564 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-01-13 12:00:00.589 [info] > git status -z -uall [38ms]
+2023-01-13 12:00:00.612 [info] > git show --textconv :ProjectPython/Hola.py [5ms]
+2023-01-13 12:02:21.998 [info] > git config --get commit.template [18ms]
+2023-01-13 12:02:22.009 [info] > git ls-files --stage -- /home/kevinromeroe/ProjectPython/Hola.py [13ms]
+2023-01-13 12:02:22.022 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2023-01-13 12:02:22.061 [info] > git cat-file -s 5c906a6bc051c00b0ea212127d3f427a226754f1 [41ms]
+2023-01-13 12:02:22.064 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2023-01-13 12:02:22.096 [info] > git status -z -uall [56ms]
+2023-01-13 12:02:22.116 [info] > git show --textconv :ProjectPython/Hola.py [4ms]
+2023-01-13 12:02:22.685 [info] > git fetch [721ms]
+2023-01-13 12:02:22.686 [info] git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-01-13 12:02:23.322 [info] > git ls-files --stage -- /home/kevinromeroe/ProjectPython/Hola.py [3ms]
+2023-01-13 12:02:23.338 [info] > git cat-file -s 5c906a6bc051c00b0ea212127d3f427a226754f1 [3ms]
+2023-01-13 12:02:23.366 [info] > git show --textconv :ProjectPython/Hola.py [4ms]
