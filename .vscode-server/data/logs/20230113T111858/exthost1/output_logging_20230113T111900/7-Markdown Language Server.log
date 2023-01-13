@@ -1,0 +1,16 @@
+[Trace 16:51:31.158] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/vGsn
+[Trace 16:51:31.159] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/vGsn
+[Trace 16:51:31.160] Server: connection.languages.diagnostics.on: file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/vGsn
+[Trace 16:51:31.163] Server: connection.languages.diagnostics.on: file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/vGsn
+[Trace 16:51:31.270] DocumentSymbolProvider: provideDocumentSymbols — file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/vGsn 1
+[Debug 16:51:31.270] LinkProvider: compute - file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/vGsn
+[Debug 16:51:31.444] TableOfContentsProvider: create - file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/vGsn
+[Trace 16:51:38.202] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/vGsn
+[Trace 16:51:38.203] Server: connection.languages.diagnostics.on: file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/vGsn
+[Debug 16:51:38.462] LinkProvider: compute - file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/vGsn
+[Trace 16:51:38.558] DocumentSymbolProvider: provideDocumentSymbols — file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/vGsn 2
+[Debug 16:51:38.558] TableOfContentsProvider: create - file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/vGsn
+[Trace 16:51:42.213] Server: connection.languages.diagnostics.on: file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/vGsn
+[Trace 16:51:51.075] Server: connection.languages.diagnostics.on: file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/vGsn
+[Trace 16:51:53.809] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/vGsn
+[Trace 16:51:53.809] VsCodeClientWorkspace: deleteDocument: file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/vGsn

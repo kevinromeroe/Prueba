@@ -19,3 +19,9 @@
 2023-01-13 11:50:14.146 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3593
 2023-01-13 11:50:19.275 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3593
 2023-01-13 11:50:36.207 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3593
+2023-01-13 11:51:20.512 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-01-13 11:51:20.512 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-01-13 11:51:20.513 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2023-01-13 11:51:20.513 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2023-01-13 11:51:30.908 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-01-13 11:51:31.403 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features

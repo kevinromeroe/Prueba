@@ -1,0 +1,18 @@
+modificaiones
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	new file:   .vscode-server/data/User/History/-227a3bfc/vGsn
+#
+# Changes not staged for commit:
+#	modified:   .vscode-server/data/User/History/-227a3bfc/entries.json
+#	modified:   .vscode-server/data/logs/20230113T111858/exthost1/exthost.log
+#	modified:   .vscode-server/data/logs/20230113T111858/exthost1/vscode.git/Git.log
+#
+# Untracked files:
+#	.vscode-server/data/User/History/1e993b3/
+#	.vscode-server/data/logs/20230113T111858/exthost1/output_logging_20230113T111900/6-JSON Language Server.log
+#	.vscode-server/data/logs/20230113T111858/exthost1/output_logging_20230113T111900/7-Markdown Language Server.log
+#
