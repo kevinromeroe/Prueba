@@ -23,3 +23,84 @@
 2023-01-13 11:09:41.130 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
 2023-01-13 11:09:41.130 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 2023-01-13 11:09:41.130 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-13 11:09:50.499 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9514
+2023-01-13 11:09:56.609 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9514
+2023-01-13 11:10:01.778 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9514
+2023-01-13 11:10:07.736 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9514
+2023-01-13 11:10:12.882 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9514
+2023-01-13 11:10:23.222 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9514
+2023-01-13 11:10:35.778 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9514
+2023-01-13 11:10:52.870 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9515
+2023-01-13 11:11:03.695 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9515
+2023-01-13 11:16:04.587 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9515
+2023-01-13 11:16:10.514 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9515
+2023-01-13 11:18:08.992 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9515
+2023-01-13 11:18:39.225 [info] Extension host terminating: received terminate message from renderer
+2023-01-13 11:18:39.227 [info] Lock '/home/kevinromeroe/.vscode-server/data/User/workspaceStorage/ff71f88bc8791fa84482a4954e057cce/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-01-13 11:18:39.266 [error] Canceled: Canceled
+	at Object.R [as canceled] (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:7:1054)
+	at /home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:104:7869
+	at Array.forEach (<anonymous>)
+	at u.dispose (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:104:7834)
+	at d.terminate (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:106:9540)
+	at f.terminate (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:110:1397)
+	at b (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:120:17815)
+	at /home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:120:15750
+	at d.invoke (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at v.deliver (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at g.fire (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.fire (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+	at c.y (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:72:17324)
+	at /home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:72:15795
+	at d.invoke (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at v.deliver (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at g.fire (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at g.acceptChunk (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:72:12045)
+	at /home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:72:11332
+	at d.invoke (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at v.deliver (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at g.fire (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at g.t (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:72:25915)
+	at g.acceptFrame (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:72:25721)
+	at d.l (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:72:24386)
+	at /home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:72:21892
+	at Socket.l (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:72:19792)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) git.commit {"value":"vscode.git","c":"vscode.git"}
+2023-01-13 11:18:39.267 [error] Canceled: Canceled
+	at Object.R [as canceled] (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:7:1054)
+	at /home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:104:7869
+	at Array.forEach (<anonymous>)
+	at u.dispose (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:104:7834)
+	at d.terminate (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:106:9540)
+	at f.terminate (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:110:1397)
+	at b (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:120:17815)
+	at /home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:120:15750
+	at d.invoke (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at v.deliver (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at g.fire (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.fire (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+	at c.y (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:72:17324)
+	at /home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:72:15795
+	at d.invoke (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at v.deliver (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at g.fire (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at g.acceptChunk (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:72:12045)
+	at /home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:72:11332
+	at d.invoke (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at v.deliver (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at g.fire (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at g.t (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:72:25915)
+	at g.acceptFrame (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:72:25721)
+	at d.l (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:72:24386)
+	at /home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:72:21892
+	at Socket.l (/home/kevinromeroe/.vscode-server/bin/e8a3071ea4344d9d48ef8a4df2c097372b0c5161/out/vs/workbench/api/node/extensionHostProcess.js:72:19792)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) __vsclcupscn5 undefined
+2023-01-13 11:18:39.282 [info] Extension host with pid 1513 exiting with code 0

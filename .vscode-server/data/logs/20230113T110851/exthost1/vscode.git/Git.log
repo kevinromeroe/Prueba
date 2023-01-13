@@ -73,3 +73,128 @@
 2023-01-13 11:09:40.259 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
 2023-01-13 11:09:40.274 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
 2023-01-13 11:09:40.298 [info] > git status -z -uall [30ms]
+2023-01-13 11:09:50.116 [info] > git add -A -- . [9888ms]
+2023-01-13 11:09:50.319 [info] > git -c user.useConfigOnly=true commit --quiet [195ms]
+2023-01-13 11:09:50.319 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2023-01-13 11:09:50.327 [info] > git config --get-all user.name [1ms]
+2023-01-13 11:09:50.345 [info] > git config --get commit.template [2ms]
+2023-01-13 11:09:50.352 [warning] No remotes found in the git config file.
+2023-01-13 11:09:50.361 [info] > git remote --verbose [9ms]
+2023-01-13 11:09:50.361 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-01-13 11:09:50.382 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-01-13 11:09:50.414 [info] > git status -z -uall [46ms]
+2023-01-13 11:09:56.456 [info] > git config --get commit.template [1ms]
+2023-01-13 11:09:56.463 [warning] No remotes found in the git config file.
+2023-01-13 11:09:56.473 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-01-13 11:09:56.473 [info] > git remote --verbose [10ms]
+2023-01-13 11:09:56.493 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-01-13 11:09:56.519 [info] > git status -z -uall [38ms]
+2023-01-13 11:10:01.643 [warning] No remotes found in the git config file.
+2023-01-13 11:10:01.644 [info] > git config --get commit.template [13ms]
+2023-01-13 11:10:01.645 [info] > git remote --verbose [2ms]
+2023-01-13 11:10:01.645 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2023-01-13 11:10:01.669 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-01-13 11:10:01.703 [info] > git status -z -uall [52ms]
+2023-01-13 11:10:07.612 [info] > git config --get commit.template [7ms]
+2023-01-13 11:10:07.619 [warning] No remotes found in the git config file.
+2023-01-13 11:10:07.620 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-01-13 11:10:07.621 [info] > git remote --verbose [2ms]
+2023-01-13 11:10:07.643 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-01-13 11:10:07.672 [info] > git status -z -uall [44ms]
+2023-01-13 11:10:12.764 [info] > git config --get commit.template [6ms]
+2023-01-13 11:10:12.769 [warning] No remotes found in the git config file.
+2023-01-13 11:10:12.770 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-01-13 11:10:12.770 [info] > git remote --verbose [1ms]
+2023-01-13 11:10:12.790 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [0ms]
+2023-01-13 11:10:12.818 [info] > git status -z -uall [42ms]
+2023-01-13 11:10:17.196 [info] > git -c user.useConfigOnly=true commit --quiet [15ms]
+2023-01-13 11:10:17.196 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2023-01-13 11:10:17.202 [info] > git config --get-all user.name [0ms]
+2023-01-13 11:10:23.051 [info] > git config --get commit.template [2ms]
+2023-01-13 11:10:23.077 [warning] No remotes found in the git config file.
+2023-01-13 11:10:23.078 [info] > git remote --verbose [2ms]
+2023-01-13 11:10:23.080 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2023-01-13 11:10:23.124 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2023-01-13 11:10:23.154 [info] > git status -z -uall [57ms]
+2023-01-13 11:10:35.643 [info] > git config --get commit.template [1ms]
+2023-01-13 11:10:35.658 [warning] No remotes found in the git config file.
+2023-01-13 11:10:35.659 [info] > git remote --verbose [1ms]
+2023-01-13 11:10:35.659 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2023-01-13 11:10:35.679 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-01-13 11:10:35.709 [info] > git status -z -uall [43ms]
+2023-01-13 11:10:52.743 [info] > git config --get commit.template [1ms]
+2023-01-13 11:10:52.756 [warning] No remotes found in the git config file.
+2023-01-13 11:10:52.757 [info] > git remote --verbose [1ms]
+2023-01-13 11:10:52.757 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2023-01-13 11:10:52.777 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-01-13 11:10:52.805 [info] > git status -z -uall [40ms]
+2023-01-13 11:11:03.584 [warning] No remotes found in the git config file.
+2023-01-13 11:11:03.585 [info] > git config --get commit.template [15ms]
+2023-01-13 11:11:03.586 [info] > git remote --verbose [2ms]
+2023-01-13 11:11:03.586 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2023-01-13 11:11:03.605 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-01-13 11:11:03.631 [info] > git status -z -uall [37ms]
+2023-01-13 11:11:06.063 [info] > git show --textconv :.git/COMMIT_EDITMSG [16ms]
+2023-01-13 11:11:06.067 [info] > git ls-files --stage -- /home/kevinromeroe/.git/COMMIT_EDITMSG [5ms]
+2023-01-13 11:11:06.430 [info] > git check-ignore -v -z --stdin [5ms]
+2023-01-13 11:16:04.414 [info] > git -c user.useConfigOnly=true commit --quiet [299916ms]
+2023-01-13 11:16:04.414 [info] Aborting commit due to empty commit message.
+2023-01-13 11:16:04.425 [info] > git config --get commit.template [1ms]
+2023-01-13 11:16:04.435 [warning] No remotes found in the git config file.
+2023-01-13 11:16:04.436 [info] > git remote --verbose [1ms]
+2023-01-13 11:16:04.436 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-01-13 11:16:04.456 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-01-13 11:16:04.512 [info] > git status -z -uall [65ms]
+2023-01-13 11:16:10.388 [info] > git config --get commit.template [1ms]
+2023-01-13 11:16:10.404 [warning] No remotes found in the git config file.
+2023-01-13 11:16:10.407 [info] > git remote --verbose [2ms]
+2023-01-13 11:16:10.407 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2023-01-13 11:16:10.423 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [0ms]
+2023-01-13 11:16:10.448 [info] > git status -z -uall [35ms]
+2023-01-13 11:16:12.681 [info] > git show --textconv :.git/COMMIT_EDITMSG [9ms]
+2023-01-13 11:16:12.683 [info] > git ls-files --stage -- /home/kevinromeroe/.git/COMMIT_EDITMSG [3ms]
+2023-01-13 11:16:13.502 [info] > git ls-files --stage -- /home/kevinromeroe/.git/COMMIT_EDITMSG [2ms]
+2023-01-13 11:16:13.560 [info] > git show --textconv :.git/COMMIT_EDITMSG [4ms]
+2023-01-13 11:18:08.859 [info] > git -c user.useConfigOnly=true commit --quiet [116921ms]
+2023-01-13 11:18:08.859 [info] Aborting commit due to empty commit message.
+2023-01-13 11:18:08.877 [info] > git config --get commit.template [5ms]
+2023-01-13 11:18:08.881 [warning] No remotes found in the git config file.
+2023-01-13 11:18:08.882 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-01-13 11:18:08.882 [info] > git remote --verbose [1ms]
+2023-01-13 11:18:08.899 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-01-13 11:18:08.929 [info] > git status -z -uall [40ms]
+2023-01-13 11:18:12.179 [info] > git show --textconv :.git/COMMIT_EDITMSG [11ms]
+2023-01-13 11:18:12.181 [info] > git ls-files --stage -- /home/kevinromeroe/.git/COMMIT_EDITMSG [2ms]
+2023-01-13 11:18:12.781 [info] > git ls-files --stage -- /home/kevinromeroe/.git/COMMIT_EDITMSG [4ms]
+2023-01-13 11:18:12.840 [info] > git show --textconv :.git/COMMIT_EDITMSG [2ms]
+2023-01-13 11:18:19.460 [info] > git check-ignore -v -z --stdin [8ms]
+2023-01-13 11:18:20.078 [info] > git check-ignore -v -z --stdin [7ms]
+2023-01-13 11:18:20.764 [info] > git check-ignore -v -z --stdin [5ms]
+2023-01-13 11:18:22.497 [info] > git check-ignore -v -z --stdin [6ms]
+2023-01-13 11:18:24.371 [info] > git check-ignore -v -z --stdin [5ms]
+2023-01-13 11:18:25.937 [info] > git check-ignore -v -z --stdin [9ms]
+2023-01-13 11:18:28.179 [info] > git check-ignore -v -z --stdin [8ms]

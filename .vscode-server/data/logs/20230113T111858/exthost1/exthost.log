@@ -1,0 +1,20 @@
+2023-01-13 11:19:00.050 [info] Extension host with pid 2311 started
+2023-01-13 11:19:00.070 [info] Lock '/home/kevinromeroe/.vscode-server/data/User/workspaceStorage/ff71f88bc8791fa84482a4954e057cce/vscode.lock': Lock acquired.
+2023-01-13 11:19:00.142 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onLanguage:git-commit'
+2023-01-13 11:19:00.204 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-13 11:19:00.205 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-13 11:19:00.316 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:*.py', root cause: ms-python.isort
+2023-01-13 11:19:00.630 [info] ExtensionService#_doActivateExtension ms-python.isort, startup: true, activationEvent: 'workspaceContains:*.py'
+2023-01-13 11:19:00.731 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-13 11:19:00.731 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-13 11:19:00.732 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-13 11:19:00.732 [info] Eager extensions activated
+2023-01-13 11:19:03.284 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-01-13 11:19:04.319 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-01-13 11:19:05.793 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-01-13 11:19:05.794 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2023-01-13 11:19:06.814 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2023-01-13 11:50:08.852 [warning] [Decorations] CAPPING events from decorations provider vscode.git 11317
+2023-01-13 11:50:10.180 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3593
+2023-01-13 11:50:14.146 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3593
+2023-01-13 11:50:19.275 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3593

@@ -1,0 +1,18 @@
+[Info  - 11:19:01 AM] (2377) Pylance language server 2023.1.20 (pyright b78a9e4b) starting
+[Info  - 11:19:01 AM] (2377) Server root directory: /home/kevinromeroe/.vscode-server/extensions/ms-python.vscode-pylance-2023.1.20/dist
+[Info  - 11:19:01 AM] (2377) Starting service instance "ProjectPython"
+[Info  - 11:19:01 AM] (2377) No configuration file found.
+[Info  - 11:19:01 AM] (2377) No pyproject.toml file found.
+[Info  - 11:19:01 AM] (2377) Setting pythonPath for service "ProjectPython": "/bin/python3"
+[Warn  - 11:19:01 AM] (2377) stubPath /home/kevinromeroe/ProjectPython/typings is not a valid directory.
+[Info  - 11:19:01 AM] (2377) Assuming Python version 3.10
+[Info  - 11:19:01 AM] (2377) Assuming Python platform Linux
+[Info  - 11:19:01 AM] (2377) Searching for source files
+[Info  - 11:19:01 AM] (2377) Found 1 source file
+[Info  - 11:19:01 AM] (2377) Background analysis(1) root directory: /home/kevinromeroe/.vscode-server/extensions/ms-python.vscode-pylance-2023.1.20/dist
+[Info  - 11:19:01 AM] (2377) Background analysis(1) started
+[Info  - 11:19:06 AM] (2377) Indexer background runner(2) root directory: /home/kevinromeroe/.vscode-server/extensions/ms-python.vscode-pylance-2023.1.20/dist (index)
+[Info  - 11:19:06 AM] (2377) Indexing(2) started
+[Info  - 11:19:07 AM] (2377) scanned(2) 42 files over 1 exec env
+[Info  - 11:19:07 AM] (2377) indexed(2) 18 files over 1 exec env
+[Info  - 11:19:07 AM] (2377) Indexing finished(2).
