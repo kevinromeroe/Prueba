@@ -933,3 +933,54 @@ and the repository exists.
 2023-01-13 12:02:23.322 [info] > git ls-files --stage -- /home/kevinromeroe/ProjectPython/Hola.py [3ms]
 2023-01-13 12:02:23.338 [info] > git cat-file -s 5c906a6bc051c00b0ea212127d3f427a226754f1 [3ms]
 2023-01-13 12:02:23.366 [info] > git show --textconv :ProjectPython/Hola.py [4ms]
+2023-01-13 12:02:23.929 [info] > git add -A -- . [49ms]
+2023-01-13 12:02:24.381 [info] > git show --textconv :.git/COMMIT_EDITMSG [15ms]
+2023-01-13 12:02:24.383 [info] > git ls-files --stage -- /home/kevinromeroe/.git/COMMIT_EDITMSG [2ms]
+2023-01-13 12:02:25.347 [info] > git ls-files --stage -- /home/kevinromeroe/ProjectPython/Hola.py [14ms]
+2023-01-13 12:02:25.360 [info] > git cat-file -s 5c906a6bc051c00b0ea212127d3f427a226754f1 [2ms]
+2023-01-13 12:02:25.360 [info] > git ls-files --stage -- /home/kevinromeroe/.git/COMMIT_EDITMSG [15ms]
+2023-01-13 12:02:25.431 [info] > git show --textconv :ProjectPython/Hola.py [13ms]
+2023-01-13 12:02:25.433 [info] > git show --textconv :.git/COMMIT_EDITMSG [3ms]
+2023-01-13 12:02:30.742 [info] > git -c user.useConfigOnly=true commit --quiet [6803ms]
+2023-01-13 12:02:30.755 [info] > git config --get commit.template [3ms]
+2023-01-13 12:02:30.767 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-01-13 12:02:30.798 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-01-13 12:02:30.819 [info] > git status -z -uall [41ms]
+2023-01-13 12:02:30.856 [info] > git push [18ms]
+2023-01-13 12:02:30.857 [info] fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+2023-01-13 12:02:30.861 [info] > git config --get commit.template [6ms]
+2023-01-13 12:02:30.874 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-01-13 12:02:30.903 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-01-13 12:02:30.934 [info] > git status -z -uall [51ms]
+2023-01-13 12:02:31.588 [info] > git check-ignore -v -z --stdin [3ms]
+2023-01-13 12:02:33.631 [info] > git ls-files --stage -- /home/kevinromeroe/ProjectPython/Hola.py [7ms]
+2023-01-13 12:02:33.641 [info] > git cat-file -s 5c906a6bc051c00b0ea212127d3f427a226754f1 [1ms]
+2023-01-13 12:02:33.676 [info] > git show --textconv :ProjectPython/Hola.py [4ms]
+2023-01-13 12:03:32.526 [info] > git push -u kevinromeroe master [57174ms]
+2023-01-13 12:03:32.527 [info] remote: warning: See http://git.io/iEPt8g for more information.        
+remote: warning: File .vscode-server/bin/97dec172d3256f8ca4bfb2143f3f76b503ca0534/node is 76.60 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+remote: 
+remote: Create a pull request for 'master' on GitHub by visiting:        
+remote:      https://github.com/kevinromeroe/Python/pull/new/master        
+remote: 
+To https://github.com/kevinromeroe/Python.git
+ * [new branch]      master -> master
+2023-01-13 12:03:32.535 [info] > git config --get commit.template [0ms]
+2023-01-13 12:03:32.542 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-01-13 12:03:32.558 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-01-13 12:03:32.576 [info] > git status -z -uall [27ms]
+2023-01-13 12:03:32.685 [info] > git config --get commit.template [3ms]
+2023-01-13 12:03:32.697 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-01-13 12:03:32.721 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-01-13 12:03:32.741 [info] > git status -z -uall [34ms]
+2023-01-13 12:03:36.243 [info] > git config --get commit.template [13ms]
+2023-01-13 12:03:36.251 [info] > git ls-files --stage -- /home/kevinromeroe/ProjectPython/Hola.py [9ms]
+2023-01-13 12:03:36.262 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2023-01-13 12:03:36.284 [info] > git cat-file -s 5c906a6bc051c00b0ea212127d3f427a226754f1 [24ms]
+2023-01-13 12:03:36.287 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2023-01-13 12:03:36.312 [info] > git status -z -uall [40ms]
+2023-01-13 12:03:36.314 [info] > git show --textconv :ProjectPython/Hola.py [3ms]
