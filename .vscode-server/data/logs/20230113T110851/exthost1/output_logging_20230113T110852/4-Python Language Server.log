@@ -1,0 +1,12 @@
+[Info  - 11:09:30 AM] (1641) Pylance language server 2023.1.20 (pyright b78a9e4b) starting
+[Info  - 11:09:30 AM] (1641) Server root directory: /home/kevinromeroe/.vscode-server/extensions/ms-python.vscode-pylance-2023.1.20/dist
+[Info  - 11:09:30 AM] (1641) Starting service instance "ProjectPython"
+[Info  - 11:09:30 AM] (1641) No configuration file found.
+[Info  - 11:09:30 AM] (1641) No pyproject.toml file found.
+[Info  - 11:09:30 AM] (1641) Setting pythonPath for service "ProjectPython": "C:/Users/Kevin Romero/AppData/Local/Microsoft/WindowsApps/python3.10.exe"
+[Warn  - 11:09:30 AM] (1641) stubPath /home/kevinromeroe/ProjectPython/typings is not a valid directory.
+[Info  - 11:09:30 AM] (1641) Assuming Python platform Linux
+[Info  - 11:09:30 AM] (1641) Searching for source files
+[Info  - 11:09:30 AM] (1641) Found 1 source file
+[Info  - 11:09:30 AM] (1641) Background analysis(1) root directory: /home/kevinromeroe/.vscode-server/extensions/ms-python.vscode-pylance-2023.1.20/dist
+[Info  - 11:09:30 AM] (1641) Background analysis(1) started

@@ -1,0 +1,56 @@
+2023-01-13 11:08:51.481 [info] Extension host agent started.
+2023-01-13 11:08:51.511 [info] Started initializing default profile extensions in extensions installation folder. file:///home/kevinromeroe/.vscode-server/extensions
+2023-01-13 11:08:51.520 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/kevinromeroe/.vscode-server/extensions
+2023-01-13 11:08:51.816 [info] [127.0.0.1][eba11362][ManagementConnection] New connection established.
+2023-01-13 11:08:52.008 [info] [127.0.0.1][97473946][ExtensionHostConnection] New connection established.
+2023-01-13 11:08:52.017 [info] [127.0.0.1][97473946][ExtensionHostConnection] <1513> Launched Extension Host Process.
+2023-01-13 11:09:07.711 [info] Getting Manifest... ms-python.python
+2023-01-13 11:09:07.832 [info] Installing extension: ms-python.python
+2023-01-13 11:09:08.893 [info] Getting Manifest... ms-toolsai.jupyter
+2023-01-13 11:09:08.983 [info] Getting Manifest... ms-python.python
+2023-01-13 11:09:09.116 [info] Extensions is already requested to install ms-python.python
+2023-01-13 11:09:09.186 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-01-13 11:09:09.299 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-01-13 11:09:09.407 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2023-01-13 11:09:09.513 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2023-01-13 11:09:09.616 [info] Getting Manifest... ms-python.vscode-pylance
+2023-01-13 11:09:09.703 [info] Getting Manifest... ms-python.isort
+2023-01-13 11:09:09.832 [info] Installing extension: ms-toolsai.jupyter ms-python.python
+2023-01-13 11:09:09.832 [info] Installing extension: ms-toolsai.jupyter-keymap ms-python.python
+2023-01-13 11:09:09.833 [info] Installing extension: ms-toolsai.jupyter-renderers ms-python.python
+2023-01-13 11:09:09.833 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags ms-python.python
+2023-01-13 11:09:09.833 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow ms-python.python
+2023-01-13 11:09:09.833 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-01-13 11:09:09.833 [info] Installing extension: ms-python.isort ms-python.python
+2023-01-13 11:09:14.015 [info] Extracted extension to /home/kevinromeroe/.vscode-server/extensions/.d2c90a58-3d84-4920-b8bd-f67b0d908f69: ms-toolsai.vscode-jupyter-cell-tags
+2023-01-13 11:09:14.020 [info] Renamed to /home/kevinromeroe/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.6
+2023-01-13 11:09:14.023 [info] Extracting completed. ms-toolsai.vscode-jupyter-cell-tags
+2023-01-13 11:09:14.039 [info] Extracted extension to /home/kevinromeroe/.vscode-server/extensions/.1ef0eca2-cda5-42d1-9539-9f4e48749c2a: ms-toolsai.vscode-jupyter-slideshow
+2023-01-13 11:09:14.041 [info] Renamed to /home/kevinromeroe/.vscode-server/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+2023-01-13 11:09:14.043 [info] Extracting completed. ms-toolsai.vscode-jupyter-slideshow
+2023-01-13 11:09:15.646 [info] Extracted extension to /home/kevinromeroe/.vscode-server/extensions/.4975f81e-addd-44c2-a15c-b015677674ca: ms-toolsai.jupyter-renderers
+2023-01-13 11:09:15.655 [info] Renamed to /home/kevinromeroe/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.12
+2023-01-13 11:09:15.658 [info] Extracting completed. ms-toolsai.jupyter-renderers
+2023-01-13 11:09:16.691 [info] Extracted extension to /home/kevinromeroe/.vscode-server/extensions/.9d2e885a-5b2a-4c6b-acd7-10132649dbc3: ms-toolsai.jupyter-keymap
+2023-01-13 11:09:16.694 [info] Renamed to /home/kevinromeroe/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.0.0
+2023-01-13 11:09:16.696 [info] Extracting completed. ms-toolsai.jupyter-keymap
+2023-01-13 11:09:18.274 [info] Extracted extension to /home/kevinromeroe/.vscode-server/extensions/.b181a5db-6a96-471e-a225-4f6a681e7e3d: ms-toolsai.jupyter
+2023-01-13 11:09:18.280 [info] Renamed to /home/kevinromeroe/.vscode-server/extensions/ms-toolsai.jupyter-2022.11.1003412109
+2023-01-13 11:09:18.292 [info] Extracting completed. ms-toolsai.jupyter
+2023-01-13 11:09:19.883 [info] Extracted extension to /home/kevinromeroe/.vscode-server/extensions/.9180412e-3656-45cc-82a6-bac5695c877d: ms-python.python
+2023-01-13 11:09:19.891 [info] Renamed to /home/kevinromeroe/.vscode-server/extensions/ms-python.python-2022.20.2
+2023-01-13 11:09:19.895 [info] Extracting completed. ms-python.python
+2023-01-13 11:09:24.323 [info] Extracted extension to /home/kevinromeroe/.vscode-server/extensions/.8987d6ef-0fa0-4269-b8ce-cf0a0f0f63f5: ms-python.isort
+2023-01-13 11:09:24.328 [info] Renamed to /home/kevinromeroe/.vscode-server/extensions/ms-python.isort-2022.8.0
+2023-01-13 11:09:24.331 [info] Extracting completed. ms-python.isort
+2023-01-13 11:09:27.807 [info] Extracted extension to /home/kevinromeroe/.vscode-server/extensions/.2b4a0a63-792b-420a-934d-6923402f4c8f: ms-python.vscode-pylance
+2023-01-13 11:09:27.820 [info] Renamed to /home/kevinromeroe/.vscode-server/extensions/ms-python.vscode-pylance-2023.1.20
+2023-01-13 11:09:27.822 [info] Extracting completed. ms-python.vscode-pylance
+2023-01-13 11:09:27.825 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2023-01-13 11:09:27.826 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+2023-01-13 11:09:27.826 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-01-13 11:09:27.826 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2023-01-13 11:09:27.826 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-01-13 11:09:27.826 [info] Extension installed successfully: ms-python.python
+2023-01-13 11:09:27.826 [info] Extension installed successfully: ms-python.isort
+2023-01-13 11:09:27.826 [info] Extension installed successfully: ms-python.vscode-pylance

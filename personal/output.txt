@@ -1,0 +1,10 @@
+total 8.0K
+drwxr-xr-x 2 kevinromeroe kevinromeroe 4.0K Jan  8 13:35 PersonalCursoPreWork
+-rw-r--r-- 1 kevinromeroe kevinromeroe    0 Jan  8 14:32 abs
+-rw-r--r-- 1 kevinromeroe kevinromeroe    0 Jan  8 14:32 bat2
+-rw-r--r-- 1 kevinromeroe kevinromeroe    0 Jan  8 14:32 datos
+-rw-r--r-- 1 kevinromeroe kevinromeroe    0 Jan  8 14:32 do2.txt
+-rw-r--r-- 1 kevinromeroe kevinromeroe    0 Jan  8 14:32 doc.txt
+-rw-r--r-- 1 kevinromeroe kevinromeroe    0 Jan  8 14:32 file.txt
+-rw-r--r-- 1 kevinromeroe kevinromeroe    0 Jan  8 13:36 index.html
+-rw-r--r-- 1 kevinromeroe kevinromeroe   36 Jan  8 14:20 text.txt

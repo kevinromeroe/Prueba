@@ -1,0 +1,25 @@
+2023-01-13 11:08:52.491 [info] Extension host with pid 1513 started
+2023-01-13 11:08:52.511 [info] Lock '/home/kevinromeroe/.vscode-server/data/User/workspaceStorage/ff71f88bc8791fa84482a4954e057cce/vscode.lock': Lock acquired.
+2023-01-13 11:08:52.552 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-01-13 11:08:52.600 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-13 11:08:52.620 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-13 11:08:52.621 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-13 11:08:52.621 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-13 11:08:52.621 [info] Eager extensions activated
+2023-01-13 11:08:55.171 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-01-13 11:08:55.388 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1816
+2023-01-13 11:08:55.639 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1817
+2023-01-13 11:08:58.252 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1817
+2023-01-13 11:09:03.293 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1817
+2023-01-13 11:09:08.336 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1817
+2023-01-13 11:09:13.377 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1817
+2023-01-13 11:09:18.423 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2426
+2023-01-13 11:09:23.516 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4925
+2023-01-13 11:09:28.388 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'workspaceContains:pyproject.toml,.isort,*.py', root cause: ms-python.isort
+2023-01-13 11:09:28.729 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9509
+2023-01-13 11:09:29.996 [info] ExtensionService#_doActivateExtension ms-python.isort, startup: false, activationEvent: 'workspaceContains:pyproject.toml,.isort,*.py'
+2023-01-13 11:09:33.880 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9511
+2023-01-13 11:09:40.362 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9511
+2023-01-13 11:09:41.130 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-13 11:09:41.130 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-13 11:09:41.130 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
