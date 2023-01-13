@@ -226,3 +226,83 @@ cd kevinromeroe
 ls
 git add biografia.txt
 ls -ls
+pwd
+ls
+mkdir ProjectPython
+cd ProjectPython/
+touch Hola.py
+python
+python3
+sudo apt install -y python3-pip
+<sudo apt-get update>
+sudo apt-get update
+pip3-V
+pip3 -V
+python3-pip
+python3-pippython3-pie
+python3-pie
+sudo apt install python3
+pip3 -V
+cd
+pip3 -V
+python3
+sudo apt-get install python3-pip
+pip3 -V
+apt install -y build-essential libssl-dev libffi-dev python3-dev
+sudo  apt install -y build-essential libssl-dev libffi-dev python3-dev
+ls
+cd ProjectPython/
+code .
+git config --global user.email "kevinromeroe@gmail.comm"
+git config --global user.name "kevinromeroee"
+ls
+python3 Hola.py
+git init
+git config --global init.defaultBranch <kevinromeroee>
+git config --global init.defaultBranch <kevinromeroe>
+git config --global init.defaultBranch <main>
+git remote add origin git@github.com:kevinromeroe/Prueba.git
+git log
+git init
+ll
+git remote -v
+git add *
+git commit -m "Prueba"
+git push origin master
+git config -global
+git config --global
+git config [<options>]
+git config <options>
+git init
+cd
+git init
+ref: refs/heads/main
+refs/heads/main
+ls
+cd ProjectPython/
+refs/heads/main
+git status
+git add*
+git add 
+git add *
+git status
+git commit -m "prueba 2"
+git show
+git pull origin master
+xcd
+cd
+ssh-keygen -t rsa -b 4096 -c "kevinromeroe@gmail.com"
+eval$(ssh-agent -s)
+ssh-add ~/.ssh/id_rsa
+ssh-keygen -t rsa -b 4096 -C “kevinromeroe@gmail.com”
+ls -al ~/.ssh
+eval $(ssh-agent -s)
+ssh-add ~/.ssh/id_rsa
+git show
+gist status
+git status
+ls
+git status
+gis thow
+gis show
+git show
