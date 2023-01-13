@@ -14,3 +14,12 @@
 [Trace 16:51:51.075] Server: connection.languages.diagnostics.on: file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/vGsn
 [Trace 16:51:53.809] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/vGsn
 [Trace 16:51:53.809] VsCodeClientWorkspace: deleteDocument: file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/vGsn
+[Trace 16:53:25.471] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/OCt9
+[Trace 16:53:25.471] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/OCt9
+[Trace 16:53:25.471] DocumentSymbolProvider: provideDocumentSymbols — file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/OCt9 1
+[Debug 16:53:25.471] LinkProvider: compute - file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/OCt9
+[Trace 16:53:25.471] Server: connection.languages.diagnostics.on: file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/OCt9
+[Debug 16:53:25.473] TableOfContentsProvider: create - file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/OCt9
+[Debug 16:53:25.673] MdFoldingProvider: provideFoldingRanges — file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/OCt9 1
+[Trace 16:53:26.958] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/OCt9
+[Trace 16:53:26.958] VsCodeClientWorkspace: deleteDocument: file:///home/kevinromeroe/.vscode-server/data/User/History/-227a3bfc/OCt9
